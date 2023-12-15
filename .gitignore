@@ -396,3 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/MemIt/ffmpeg.exe
+/MemIt/yt-dlp.exe
